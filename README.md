@@ -2,7 +2,7 @@
 
 Website implemented here:
 
-[*My Sample App*](https://sheltered-island-5311.herokupp.com)
+[My Sample App](https://sheltered-island-5311.herokupp.com)
 
 This is the sample application for the
 [*Ruby on Rails Tutorial:
